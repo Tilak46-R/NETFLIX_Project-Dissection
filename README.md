@@ -1,9 +1,21 @@
 # Project-Dissection
 
-Product Dissection for Netflix
+**Product Dissection for Netflix**
 
-Welcome to this case study on dissecting and designing products for Netflix. In this case study, you will delve into the intriguing world of schema design for a prominent platform of your choice.
-My task was to choose a top leading platform, research its features, and meticulously craft a schema design that encapsulates the essence of its functionality. By focusing on key entities, attributes, and relationships, you will gain invaluable insights into how data architecture drives the platform's effectiveness.
-This project deals about dissecting the key features of Netflix and analysing the problem solving strategies used by Netflic to real world problems faced by them.
-This project also inclues schema design where each table is created with their realtionships.
-Finally creating an ER diagram to showcase the relationship between them.
+**Overview**
+
+Project Dissection is an open-source project aimed at analyzing and understanding the inner workings of Netflix. Netflix, a leading streaming service, employs sophisticated algorithms and technologies to deliver personalized content recommendations to its users. This project aims to dissect and explore these mechanisms, shedding light on the underlying algorithms, data processing techniques, and user experience strategies utilized by Netflix.
+
+**Features**
+
+**Algorithm Analysis**: Explore the algorithms used by Netflix for content recommendation, personalized user experience, and content categorization.
+
+**Data Processing**: Investigate the data processing pipeline employed by Netflix for handling vast amounts of user data and content metadata.
+
+**User Experience**: Examine the user interface design principles and user engagement strategies employed by Netflix to enhance user experience.
+
+**Performance Evaluation**:Evaluate the performance metrics used by Netflix to measure the effectiveness of its recommendation system and overall service quality..
+
+**Disclaimer**
+
+Project Dissection is an educational and research-oriented project and is not affiliated with or endorsed by Netflix. The information and analysis provided in this project are based on publicly available data and research and may not reflect the exact methods or technologies used by Netflix.
